@@ -3,6 +3,7 @@
 - FrontEnd
 - JS
 - Angular
+- NodeJS
 - Developer in Java, C++
 
 HTML, CSS
