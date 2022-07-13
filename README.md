@@ -5,6 +5,8 @@
 - Angular
 - NodeJS
 - Developer in Java, C++
+- MongoDB
+- PostgressQL
 
 HTML, CSS
 
