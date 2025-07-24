@@ -1,9 +1,14 @@
 - 👋 Hi, I’m @DaniRicher
 - Passionate about programming
-- FrontEnd
+- FullStack Developer
 - JS
+- TypeScript
 - Angular
+- React
+- Vue
+- Next.js
 - NodeJS
+- Nest.js
 - Developer in Java, C++
 - MongoDB
 - PostgressQL
